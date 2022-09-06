@@ -1,0 +1,8 @@
+C:\Users\Rolf\source\repos\DooFast2.0\Core\bin\Release\net6.0\publish\Core.dll
+C:\Users\Rolf\source\repos\DooFast2.0\Core\bin\Release\net6.0\publish\Core.deps.json
+C:\Users\Rolf\source\repos\DooFast2.0\Core\bin\Release\net6.0\publish\Core.pdb
+C:\Users\Rolf\source\repos\DooFast2.0\Core\bin\Release\net6.0\publish\AutoMapper.dll
+C:\Users\Rolf\source\repos\DooFast2.0\Core\bin\Release\net6.0\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rolf\source\repos\DooFast2.0\Core\bin\Release\net6.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rolf\source\repos\DooFast2.0\Core\bin\Release\net6.0\publish\Microsoft.Extensions.Options.dll
+C:\Users\Rolf\source\repos\DooFast2.0\Core\bin\Release\net6.0\publish\Microsoft.Extensions.Primitives.dll
